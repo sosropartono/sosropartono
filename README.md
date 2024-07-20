@@ -1,4 +1,4 @@
-### Hello there! 👋 Currently working on release engineer tests @ esri :)
+### Hello there! 👋 Currently working on builds as a release engineer @ esri :)
 
 ### Languages and Tools
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
